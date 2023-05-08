@@ -5,3 +5,5 @@ Welcome to the 20 Web Apps Challenge – the ultimate destination for developers
 
 Join our telegram group dedicated to providing a supportive environment for all members.
 LINK : https://t.me/the20WebAppsChallenge
+
+USE the #20WebAppsChallenge hashtag on twitter and github in other to participate during the challenge and get your work shared across out networks...
